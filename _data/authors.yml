@@ -1,6 +1,6 @@
 default:
   name: "Kurose shugo"
-  avatar: "/assets/images/icons/default.png"
+  avatar: "/assets/images/IMG_0121.png"
   bio: "KITHUBの新入生です。"
   links:
     - label: "Twitter"
